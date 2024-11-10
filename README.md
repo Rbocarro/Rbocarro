@@ -11,7 +11,6 @@
 
 
   <head>
-    <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
   </head>
   <body>
     <a-scene>
